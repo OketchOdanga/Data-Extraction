@@ -1,0 +1,7 @@
+product_id,product_name,category,price,inventory
+1,Laptop,Electronics,1200.00,50
+2,Office Chair,Furniture,150.00,200
+3,Wireless Mouse,Electronics,25.00,500
+4,Desk,Furniture,300.00,100
+5,Keyboard,Electronics,75.00,300
+6,Earpods,Electronics,350.75,500
